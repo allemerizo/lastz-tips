@@ -25,8 +25,8 @@ These apps let you run a second copy of the game on one phone.
 4. Play until you reach the part when **your profile appears**.
 
 <p align="left">
-  <img src="first-stages.jpg" alt="Account Button" height="240"/>
-   <img src="profile-pic.jpg" alt="Character Mgmt Button" height="240"/>
+  <img src="first-stages.jpg" alt="Account Button" width="240"/>
+   <img src="profile-pic.jpg" alt="Character Mgmt Button" width="240"/>
 </p>
 
 ---
@@ -44,8 +44,8 @@ Once the shelter option appears:
 
 ## 🧩 Step 6: Create a New Character on Server #169
 <p align="left">
-  <img src="profile-account.jpg" alt="Account Button" height="240"/>
-   <img src="char-mgmt.jpg" alt="Character Mgmt Button" height="240"/>
+  <img src="profile-account.jpg" alt="Account Button" width="240"/>
+   <img src="char-mgmt.jpg" alt="Character Mgmt Button" width="240"/>
 </p>
 
 1. From the same **Account** menu, go to **Character Management**.
