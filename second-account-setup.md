@@ -22,9 +22,12 @@ These apps let you run a second copy of the game on one phone.
 1. Open the **Parallel App**.
 2. Add **Last Z** (the game).
 3. Start the game — it will begin from scratch.
-4. Play until you reach the part where you **fight the zombie that runs away**.
-5. After that, you’ll get the **“Build Shelter”** option.  
-   👉 *Don’t worry about building yet — this is just to unlock your profile menu!*
+4. Play until you reach the part when **your profile appears**.
+
+<p align="left">
+  <img src="first-stages.jpg" alt="Account Button" height="240"/>
+   <img src="profile-pic.jpg" alt="Character Mgmt Button" height="240"/>
+</p>
 
 ---
 
@@ -40,6 +43,11 @@ Once the shelter option appears:
 ---
 
 ## 🧩 Step 6: Create a New Character on Server #169
+<p align="left">
+  <img src="profile-account.jpg" alt="Account Button" height="240"/>
+   <img src="char-mgmt.jpg" alt="Character Mgmt Button" height="240"/>
+</p>
+
 1. From the same **Account** menu, go to **Character Management**.
 2. Tap the **➕ (plus sign)** to create a **new character**.
 3. Select **Server #169** from the list.
